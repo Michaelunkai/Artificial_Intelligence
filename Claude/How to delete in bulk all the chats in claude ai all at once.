@@ -1,0 +1,69 @@
+Here's a complete, clear tutorial with a bold title, platform limitations, and both manual and automated methods:
+
+---
+
+## 🧹 **How to Permanently Delete All Claude AI Chats in Bulk (Works Only on PC – Not Android/iPhone Yet!)**
+
+If you’re looking to start fresh or wipe all your Claude.ai conversations in one go, this guide will show you exactly how to **bulk delete every chat** at once—step by step.
+
+> ⚠️ **Important:** As of June 2025, **bulk deletion is only available on Windows, macOS, and Linux via a desktop browser**. You **cannot delete multiple chats at once on Android or iPhone**—you’d have to delete each one manually, one by one.
+
+---
+
+### ✅ **METHOD 1: Manual Bulk Deletion via Claude's Website**
+
+1. **Open Claude in your browser**
+   → Go to: [https://claude.ai/recents](https://claude.ai/recents)
+
+2. **Enter Selection Mode**
+
+   * Click the **“Select”** button in the top-right corner.
+
+3. **Select All Chats**
+
+   * Once in selection mode, click **“Select All”** to highlight every conversation.
+
+4. **Delete All**
+
+   * Click the red **“Delete Selected”** button and confirm.
+
+🎉 That’s it—**your entire Claude chat history is now permanently deleted.**
+
+---
+
+### ⚡ **METHOD 2: One-Click Wipe Using a Browser Extension (Advanced Users)**
+
+If you want to delete everything even faster, use a browser extension:
+
+1. **Install the Chrome extension: `Claude Chat Cleaner`**
+
+   * Search in Chrome Web Store or go to a trusted GitHub repo if available.
+
+2. **Open Claude.ai**
+
+   * Make sure you're signed in to your account.
+
+3. **Click the extension icon → “Clear Chats”**
+
+   * It will automatically loop through your chat list and remove them all.
+
+🛑 **Warning:** This extension performs irreversible bulk deletion. No undo.
+
+---
+
+### ❌ NOT POSSIBLE ON MOBILE (YET)
+
+* **Android/iPhone Limitations:**
+
+  * The Claude app or mobile browser doesn’t support multi-select or “Select All.”
+  * You must manually delete chats one at a time by opening them and choosing "Delete."
+
+---
+
+### 🧠 Pro Tip:
+
+Before deleting, consider **copying or exporting any important chats** you want to save. Claude does **not** offer chat exports natively—so you’ll need to manually copy text into a document.
+
+---
+
+Let me know if you want this tutorial in a graphic, PDF, or as a downloadable guide.
